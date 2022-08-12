@@ -1,3 +1,13 @@
+Aplicação Prática da Ciência de Dados no mundo real. 
+
+Este código é composto por :
+- Um baita pré-processamento e entendimento de dados.
+- Criação de variáveis para o modelo.
+- Testes de modelos de classificação com Tidymodels, como: RANDOM FOREST, XGBOOTS, ENTRE OUTROS... 
+
+
+### Entendendo os dados: 
+
 Projeto real com dados fictícios. 
 
 Os dados representam cógidos de produtos e quantidade de volume de vendas nos meses. Tendo a parte de história e a parte de previsão (forecast).
