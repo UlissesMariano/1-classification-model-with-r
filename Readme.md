@@ -23,11 +23,11 @@ Valor : o valor representa o peso em toneladas, das vendas daquele produto no m√
 
 O projeto tem como objetivo classificar estes produtos como:
 
-"REGULAR"
-"NPD PHASE IN"
-"NPD"
-"IN & OUT"
-"DELISTED"
+"REGULAR"\n
+"NPD PHASE IN"\n
+"NPD"\n
+"IN & OUT"\n
+"DELISTED"\n
 "PHASE OUT"
 
 
